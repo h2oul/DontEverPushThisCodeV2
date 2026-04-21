@@ -139,6 +139,7 @@ Trivy severity docs: https://aquasecurity.github.io/trivy/latest/docs/configurat
 
 ## Secrets Required
 
+
 Add in repo → Settings → Secrets and variables → Actions:
 
 | Secret | Where to get |
